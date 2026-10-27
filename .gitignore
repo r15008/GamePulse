@@ -1,0 +1,8 @@
+dist/
+obj/
+*.tmp
+checks.txt
+capture-check.json
+test-data-*/
+settings.json
+records/
